@@ -3,13 +3,13 @@
 
 <img src="https://cdn.dribbble.com/users/3573566/screenshots/14509732/media/00ed4da4b643e67738a3ab402df90a24.gif" alt="Coding" width="400" align="right">
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **Flutter,Dart, C++**
 
 - 📫 How to reach me **nasiriqbal3499@gmail.com**
 
-- ⚡ Fun fact **I think Coding is easy**
+- ⚡ Fun fact **I’m always learning, because the code never stops teaching!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
