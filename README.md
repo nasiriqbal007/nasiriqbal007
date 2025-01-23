@@ -3,9 +3,9 @@
 
 <img src="https://cdn.dribbble.com/users/3573566/screenshots/14509732/media/00ed4da4b643e67738a3ab402df90a24.gif" alt="Coding" width="400" align="right">
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **Flutter,Dart, C++**
+- 💬 Ask me about **Flutter,Dart, C++,JavaScrip**
 
 - 📫 How to reach me **nasiriqbal3499@gmail.com**
 
