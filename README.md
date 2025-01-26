@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **Flutter,Dart, C++,JavaScrip**
+- 💬 Ask me about **Flutter,Dart, C++,JavaScript**
 
 - 📫 How to reach me **nasiriqbal3499@gmail.com**
 
