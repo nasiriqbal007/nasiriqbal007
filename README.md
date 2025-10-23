@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nasir Iqbal</h1>
-<h3 align="center">A passionate Frontend & Full-Stack Developer</h3>
-
+<h3 align="center">Frontend Developer | React & Next.js Enthusiast | Building Modern Web Applications</h3>
 <img src="https://cdn.dribbble.com/users/3573566/screenshots/14509732/media/00ed4da4b643e67738a3ab402df90a24.gif" alt="Coding" width="300" align="right">
 
-- 🌱 **Currently learning:** Frontend with React  
+- 🌱 **Currently learning:** Next.js  
 - 💬 **Ask me about:** React, JavaScript, HTML, CSS, Flutter, Dart  
 - 📫 **Reach me:** nasiriqbal3499@gmail.com  
-- ⚡ **Fun fact:** I’m always learning, because the code never stops teaching!  
+- ⚡ **Fun fact:** I'm always learning, because the code never stops teaching!  
 
 ---
 
@@ -36,8 +35,6 @@
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
