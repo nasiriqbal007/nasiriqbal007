@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nasir Iqbal</h1>
-<h3 align="center">Frontend Developer | React & Next.js Enthusiast | Building Modern Web Applications</h3>
+<h3 align="center">Software Engineer | Full Stack & Mobile App Developer | React, Node.js & Flutter</h3>
+
 <img src="https://cdn.dribbble.com/users/3573566/screenshots/14509732/media/00ed4da4b643e67738a3ab402df90a24.gif" alt="Coding" width="300" align="right">
 
-- 🌱 **Currently learning:** Next.js  
-- 💬 **Ask me about:** React, JavaScript, HTML, CSS, Flutter, Dart  
+- 🌱 **Currently focused on:** Building scalable full-stack and mobile applications  
+- 💻 **Tech Stack:** React, TypeScript, Node.js, Express, PostgreSQL, Flutter, Dart, JavaScript, HTML, CSS  
 - 📫 **Reach me:** nasiriqbal3499@gmail.com  
-- ⚡ **Fun fact:** I'm always learning, because the code never stops teaching!  
+- ⚡ **Focus:** Clean architecture, real-world systems, and continuous learning  
 
 ---
 
