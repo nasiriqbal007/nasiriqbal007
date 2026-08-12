@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nasir Iqbal</h1>
-<h3 align="center">Software Engineer | Full Stack & Mobile App Developer | React, Node.js & Flutter</h3>
+<h3 align="center">Software Engineer | Web & Mobile Development | Frontend & Backend Development</h3>
 
 <img src="https://cdn.dribbble.com/users/3573566/screenshots/14509732/media/00ed4da4b643e67738a3ab402df90a24.gif" alt="Coding" width="300" align="right">
 
-- 🌱 **Currently focused on:** Building scalable full-stack and mobile applications  
-- 💻 **Tech Stack:** React, TypeScript, Node.js, Express, PostgreSQL, Flutter, Dart, JavaScript, HTML, CSS  
+- 🌱 **Currently focused on:** Building scalable full-stack and mobile applications
+- 💻 **Tech Stack:** TypeScript, JavaScript, React, Next.js, Node.js, NestJS, PostgreSQL, Flutter & Dart  
 - 📫 **Reach me:** nasiriqbal3499@gmail.com  
 - ⚡ **Focus:** Clean architecture, real-world systems, and continuous learning  
 
@@ -38,6 +38,10 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
 </p>
 ---
 
